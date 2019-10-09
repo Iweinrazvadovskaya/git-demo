@@ -1,0 +1,11 @@
+D:\3 курс\TESTS\UnitTests\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.deps.json
+D:\3 курс\TESTS\UnitTests\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.json
+D:\3 курс\TESTS\UnitTests\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.dev.json
+D:\3 курс\TESTS\UnitTests\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.dll
+D:\3 курс\TESTS\UnitTests\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache
+D:\3 курс\TESTS\UnitTests\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CoreCompileInputs.cache
+D:\3 курс\TESTS\UnitTests\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfoInputs.cache
+D:\3 курс\TESTS\UnitTests\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
+D:\3 курс\TESTS\UnitTests\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+D:\3 курс\TESTS\UnitTests\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
+D:\3 курс\TESTS\UnitTests\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb
