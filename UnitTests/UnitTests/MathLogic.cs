@@ -12,18 +12,9 @@ namespace UnitTests
 
         public bool TriangleCheck(double first, double second, double third)
         {
-           
-                return (first < second + third || second < first + third || third < first + second);
-               
+            return (first < second + third || second < first + third || third < first + second);               
         }
-        static void Main(string[] args)
-        {
-            TestCaseNUnit test1 = new TestCaseNUnit();
-            test1.Test_NegativeValues();
-            test1.Test_NotTraingleValues();
-            test1.Test_TraingleValues();
-            test1.Test_ZiroValue();
-        }
+
     }
 
 }
